@@ -137,11 +137,7 @@ export const STRINGS = {
     },
     comingSoon: {
       badge: "Çok Yakında",
-      slogan: "sanatın teknolojiye dönüştüğü yer",
-      headline: "Burada açılıyor",
       sub: "studio HATCH — sürükleyici gösteriler ve dijital sanat sergileriyle çok yakında kapılarını açıyor.",
-      feelArt: "Sanatı Hisset",
-      feelTech: "Teknolojiyi Hisset",
       openingLabel: "Açılış Sergisi",
       openingTitle: "Frida Kahlo — Kökler ve İzler",
       quote:
@@ -289,11 +285,7 @@ export const STRINGS = {
     },
     comingSoon: {
       badge: "Coming Soon",
-      slogan: "where art turns into technology",
-      headline: "Opening here",
       sub: "studio HATCH — immersive shows and digital art exhibitions, opening its doors very soon.",
-      feelArt: "Feel Art",
-      feelTech: "Feel Tech",
       openingLabel: "Opening Exhibition",
       openingTitle: "Frida Kahlo — Roots and Traces",
       quote:
