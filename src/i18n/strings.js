@@ -135,6 +135,20 @@ export const STRINGS = {
       learnMore: "Daha fazla",
       loading: "Yükleniyor…",
     },
+    comingSoon: {
+      badge: "Çok Yakında",
+      slogan: "sanatın teknolojiye dönüştüğü yer",
+      headline: "Burada açılıyor",
+      sub: "studio HATCH — sürükleyici gösteriler ve dijital sanat sergileriyle çok yakında kapılarını açıyor.",
+      feelArt: "Sanatı Hisset",
+      feelTech: "Teknolojiyi Hisset",
+      openingLabel: "Açılış Sergisi",
+      openingTitle: "Frida Kahlo — Kökler ve İzler",
+      quote:
+        "Hayatımda iki büyük kaza geçirdim. Biri otobüs kazasıydı, diğeri Diego. En kötüsü Diego'ydu.",
+      quoteAuthor: "Frida Kahlo",
+      waitlist: "Açılıştan ilk siz haberdar olun:",
+    },
   },
 
   en: {
@@ -272,6 +286,20 @@ export const STRINGS = {
       tickets: "Get Tickets",
       learnMore: "Learn more",
       loading: "Loading…",
+    },
+    comingSoon: {
+      badge: "Coming Soon",
+      slogan: "where art turns into technology",
+      headline: "Opening here",
+      sub: "studio HATCH — immersive shows and digital art exhibitions, opening its doors very soon.",
+      feelArt: "Feel Art",
+      feelTech: "Feel Tech",
+      openingLabel: "Opening Exhibition",
+      openingTitle: "Frida Kahlo — Roots and Traces",
+      quote:
+        "I suffered two grave accidents in my life. One in which a streetcar knocked me down. The other accident is Diego.",
+      quoteAuthor: "Frida Kahlo",
+      waitlist: "Be the first to know when we open:",
     },
   },
 };
