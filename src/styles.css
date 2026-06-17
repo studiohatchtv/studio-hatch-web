@@ -767,14 +767,8 @@
 .cs-top {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   padding: 24px clamp(20px, 5vw, 56px);
-}
-.cs-logo {
-  height: 40px;
-  width: 40px;
-  object-fit: contain;
-  filter: invert(1) brightness(1.6);
 }
 .cs-main {
   flex: 1;
@@ -799,13 +793,12 @@
   padding: 8px 20px;
   background: rgba(6, 182, 212, 0.08);
 }
-.cs-wordmark {
-  font-family: var(--font-display);
-  font-weight: 700;
-  font-size: clamp(4rem, 17vw, 12rem);
-  line-height: 0.95;
-  letter-spacing: 0.02em;
-  margin: 26px 0 0;
+.cs-wordmark-logo {
+  width: clamp(240px, 46vw, 460px);
+  height: auto;
+  margin: clamp(8px, 2vw, 24px) 0 0;
+  filter: invert(1) brightness(1.7)
+    drop-shadow(0 8px 40px rgba(6, 182, 212, 0.35));
 }
 .cs-slogan {
   font-size: clamp(1.1rem, 2.6vw, 1.7rem);

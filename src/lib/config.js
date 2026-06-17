@@ -4,7 +4,7 @@ export const TICKET_URL = "https://www.passo.com.tr/";
 
 export const SOCIAL = {
   instagram: "https://instagram.com/studiohatch",
-  email: "info@studiohatch.tv",
+  email: "hello@studiohatch.tv",
 };
 
 // Audio guide mobile app store links. TODO: replace with the real listings.

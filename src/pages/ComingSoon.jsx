@@ -15,7 +15,6 @@ export default function ComingSoon() {
       <div className="cs-glow" aria-hidden="true" />
 
       <header className="cs-top">
-        <img className="cs-logo" src={LOGO} alt="studio HATCH" />
         <div className="lang-switch">
           <button className={lang === "tr" ? "on" : ""} onClick={() => setLang("tr")}>
             TR
@@ -29,7 +28,7 @@ export default function ComingSoon() {
       <main className="cs-main">
         <span className="cs-badge">{c.badge}</span>
 
-        <h1 className="cs-wordmark glow-text">HATCH</h1>
+        <img className="cs-wordmark-logo" src={LOGO} alt="studio HATCH" />
         <p className="cs-slogan accent">{c.slogan}</p>
 
         <div className="cs-feel">
